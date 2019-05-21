@@ -3,9 +3,9 @@
 I followed along with this tutorial:
 https://www.taniarascia.com/crud-app-in-react-with-hooks/
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-...
-# Available Scripts
+
 In the project directory, you can run:
 
 ### `npm start`
