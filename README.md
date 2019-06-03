@@ -31,8 +31,11 @@ We'll make a simple CRUD app. It will have users, and you'll be able to add, upd
 ## Sources
 
 https://www.taniarascia.com/crud-app-in-react-with-hooks/
+
 https://taniarascia.github.io/primitive/css/main.css
+
 https://www.robinwieruch.de/react-hooks/
+
 https://www.robinwieruch.de/local-storage-react/
 
 
