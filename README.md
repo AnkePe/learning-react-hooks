@@ -1,3 +1,7 @@
+# CRUD App with Hooks
+Workshop based on this tutorial:
+https://www.taniarascia.com/crud-app-in-react-with-hooks/
+
 ## Prerequisites
 
 - a basic knowledge of HTML, CSS, and JavaScript/ES6
@@ -32,9 +36,4 @@ https://www.robinwieruch.de/react-hooks/
 https://www.robinwieruch.de/local-storage-react/
 
 
-# CRUD App with Hooks
-I followed along with this tutorial:
-https://www.taniarascia.com/crud-app-in-react-with-hooks/
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
